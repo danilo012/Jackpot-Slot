@@ -198,7 +198,7 @@ section#options{
 
 .leaderboard{
 	width:25%;
-	top: 20px;
+	bottom: 20px;
 	left: auto;
 	right: 10px;
 	border-radius: 20px;
