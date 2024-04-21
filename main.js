@@ -17,13 +17,14 @@ var wins = 0
 var id = 0
 
 const firebaseConfig = {
-	apiKey: "AIzaSyDrx_IMLOUSSRAKHSh3nT7HABzjPtv0bI4",
-	authDomain: "slot-game-8aed2.firebaseapp.com",
-	projectId: "slot-game-8aed2",
-	storageBucket: "slot-game-8aed2.appspot.com",
-	messagingSenderId: "1003739740685",
-	appId: "1:1003739740685:web:26755aeb50afdce1cc3344"
-  };
+ apiKey: "AIzaSyA-7AlaObbKW6NP_VL5miPKwQEKPOIT8mY",
+  authDomain: "plinko-balls-bd87d.firebaseapp.com",
+  projectId: "plinko-balls-bd87d",
+  storageBucket: "plinko-balls-bd87d.appspot.com",
+  messagingSenderId: "744261373872",
+  appId: "1:744261373872:web:8e10935fd7fe8a629c9075",
+  measurementId: "G-EZP4HZSYJ2"
+};
   
 firebase.initializeApp(firebaseConfig);
 
