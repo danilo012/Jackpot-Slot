@@ -161,7 +161,7 @@ section#options{
 }
 
 .stats{
-	bottom: 50px;
+	top: 50px;
 	margin-top: 30px;
 	margin-left: 30px;
 	width: 20%;
@@ -203,7 +203,7 @@ section#options{
 	width:25%;
 	bottom: 20px;
 	left: auto;
-	right: 10px;
+	right: 50px;
 	border-radius: 20px;
 	position: absolute;
 	background-color: #606060;
