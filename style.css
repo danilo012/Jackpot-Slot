@@ -205,7 +205,7 @@ section#options{
 	left: auto;
 	right: 50px;
 	border-radius: 20px;
-	position: absolute;
+	position: center;
 	background-color: #606060;
 	min-width: 290px;
 	min-height: 575px;
