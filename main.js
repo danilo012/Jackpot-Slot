@@ -22,7 +22,7 @@ const firebaseConfig = {
   projectId: "plinko-balls-bd87d",
   storageBucket: "plinko-balls-bd87d.appspot.com",
   messagingSenderId: "744261373872",
-  appId: "1:744261373872:web:8e10935fd7fe8a629c9075",
+  appId: "1:744261373872:web:8e10935fd7fe8a629c9075"
 };
   
 firebase.initializeApp(firebaseConfig);
